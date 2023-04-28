@@ -1,1 +1,1 @@
-Singly linked list readme
+readme for singly

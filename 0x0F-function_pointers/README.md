@@ -1,1 +1,0 @@
-readme of function pointer
